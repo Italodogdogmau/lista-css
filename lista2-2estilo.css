@@ -1,0 +1,54 @@
+a#um:link{
+	text-decoration: none;
+}
+a#dois:link{
+	text-decoration: overline;
+}
+a#dois:visited{
+	text-decoration: underline;
+	}
+a#dois:hover{
+	text-decoration: underline;
+}
+a#dois:active{
+	text-decoration: line-through;
+}
+a#tres:link{
+	background-color: orange;
+	text-decoration: none;
+}
+a#tres:hover{
+	background-color: green;
+	text-decoration: underline;
+}
+a#quatro{
+	color: white;
+	border: solid blue;
+	background-color: black;
+}
+a#quatro:link{
+	text-decoration: none;
+	
+}
+a#quatro:hover{
+	border: dashed black;
+	background-color: white;
+	color: black; 
+}
+a#cinco{
+	color: red;
+}
+a#cinco:link{
+	text-decoration: none;
+}
+a#cinco:visited{
+	font-style: italic;
+	font-weight: bold;
+	color: orange;
+}
+a#cinco:hover{
+	text-decoration: underline;
+}
+a#cinco:active{
+	color: yellow;
+}

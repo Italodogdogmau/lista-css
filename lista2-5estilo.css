@@ -1,0 +1,25 @@
+li{
+	color: red;
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+	border-bottom: 1px dashed red;
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	list-style-image:url("setavermelha.png");
+}
+li:link{
+	text-decoration: none;
+
+}
+li:hover{
+	color: green;
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+	border-bottom: 1px dashed green;
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	list-style-image:url("setaverde.png");
+}
+
